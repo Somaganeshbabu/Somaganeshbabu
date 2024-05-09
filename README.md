@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Ganesh babu
 <h3 align="center">A Software engineer</h3>
+<img align="right" alt = "coding" width="400" src="https://github.com/Somaganeshbabu/aws-mini-projects/blob/main/AWS_s3_upload_using_boto3/images/image2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaganeshbabu&label=Profile%20views&color=0e75b6&style=flat" alt="somaganeshbabu" /> </p>
 
